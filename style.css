@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+#main-container {
+  background-color: white;
+  width: min-content;
+  border-radius: 10px;
+  margin: 6rem auto;
+}
+
+#logo-container {
+  width: 250px;
+  height: 450px;
+}
+
+#logo {
+  border-radius: 30px;
+  width: 218px;
+  height: 250px;
+  padding: 16px;
+}
+ 
+#heading-text {
+  padding: 0 24px;
+  font-weight: 700;
+  font-size: 18px;
+  color: hsl(218, 44%, 22%);
+}
+
+#subtext {
+  padding: 16px 24px;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%)
+}
